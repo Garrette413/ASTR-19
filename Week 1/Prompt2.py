@@ -1,7 +1,7 @@
-def main():
-    a = 3
-    b = 5
 
-    print(a+b)
-    print(a-b)
-    print(a*b)
+a = 3
+b = 5
+
+print(str(a) + " + " + str(b) + " = " + str(a+b))
+print(str(a) + " - " + str(b) + " = " + str(a-b))
+print(str(a) + " x " + str(b) + " = " + str(a*b))
