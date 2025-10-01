@@ -1,1 +1,1 @@
-print("hello")
+print("hello my name is garrett elliott. I don't have a favorite movie, I prefer to watch new movies rather than rewatch old ones. For songs, I am between lonely day by System of a Down and Like a Stone by audioslave.")
